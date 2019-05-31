@@ -1,0 +1,303 @@
+#tm-lockerA{
+	width: 100px;
+	height: 50px;
+	border:2px solid black;
+	padding: 10px;
+	margin:10px;
+	position: absolute;
+}
+#tm-tokenA{
+	font-size: 28px;
+}
+#tm-div1{
+	width: 49px;
+	height: 49px;
+	background-color: red;
+	border:1px solid black;
+	position: relative;
+	left: 160px;
+	top: 20px;
+}
+#tm-div2{
+	width: 49px;
+	height: 49px;
+	border:1px solid black;
+	position: relative;
+	left: 210px;
+	bottom: 31px;
+}
+#tm-div3{
+	width: 49px;
+	height: 49px;
+	padding: 0px;
+	border:1px solid black;
+	position: relative;
+	left: 260px;
+	bottom: 82px;
+}
+#tm-div4{
+	width: 49px;
+	height: 49px;
+	padding: 0px;
+	border:1px solid black;
+	position: relative;
+	left: 310px;
+	bottom: 133px;
+}
+#tm-div5{
+	width: 49px;
+	height: 49px;
+	padding: 0px;
+	border:1px solid black;
+	position: relative;
+	left: 360px;
+	bottom: 184px;
+}
+#tm-div6{
+	width: 49px;
+	height: 49px;
+	padding: 0px;
+	border:1px solid black;
+	position: relative;
+	left: 410px;
+	bottom: 235px;
+}
+#tm-div7{
+	width: 49px;
+	height: 49px;
+	padding: 0px;
+	border:1px solid black;
+	position: relative;
+	left: 460px;
+	bottom: 286px;
+}
+#tm-div8{
+	width: 49px;
+	height: 49px;
+	padding: 0px;
+	border:1px solid black;
+	position: relative;
+	left: 510px;
+	bottom: 337px;
+}
+#tm-div9{
+	width: 49px;
+	height: 49px;
+	padding: 0px;
+	border:1px solid black;
+	position: relative;
+	left: 510px;
+	bottom: 338px;
+}
+#tm-div10{
+	width: 49px;
+	height: 49px;
+	padding: 0px;
+	border:1px solid black;
+	position: relative;
+	left: 510px;
+	bottom: 339px;
+}
+#tm-div11{
+	width: 49px;
+	height: 49px;
+	padding: 0px;
+	border:1px solid black;
+	position: relative;
+	left: 510px;
+	bottom: 340px;
+}
+#tm-div12{
+	width: 49px;
+	height: 49px;
+	padding: 0px;
+	border:1px solid black;
+	position: relative;
+	left: 510px;
+	bottom: 341px;
+}
+#tm-div13{
+	width: 49px;
+	height: 49px;
+	padding: 0px;
+	border:1px solid black;
+	position: relative;
+	left: 510px;
+	bottom: 342px;
+}
+#tm-div14{
+	width: 49px;
+	height: 49px;
+	padding: 0px;
+	background-color: #87b5ff;
+	border:1px solid black;
+	position: relative;
+	left: 510px;
+	bottom: 343px;
+}
+#tm-div15{
+	width: 49px;
+	height: 49px;
+	padding: 0px;
+	background-color: #1c73ff;
+	border:1px solid black;
+	position: relative;
+	left: 510px;
+	bottom: 344px;
+}
+#tm-div16{
+	width: 49px;
+	height: 49px;
+	padding: 0px;
+	border:1px solid black;
+	position: relative;
+	left: 460px;
+	bottom: 395px;
+}
+#tm-div17{
+	width: 49px;
+	height: 49px;
+	padding: 0px;
+	border:1px solid black;
+	position: relative;
+	left: 410px;
+	bottom: 446px;
+}
+#tm-div18{
+	width: 49px;
+	height: 49px;
+	padding: 0px;
+	border:1px solid black;
+	position: relative;
+	left: 360px;
+	bottom: 497px;
+}
+#tm-div19{
+	width: 49px;
+	height: 49px;
+	padding: 0px;
+	border:1px solid black;
+	position: relative;
+	left: 310px;
+	bottom: 548px;
+}
+#tm-div20{
+	width: 49px;
+	height: 49px;
+	padding: 0px;
+	border:1px solid black;
+	position: relative;
+	left: 260px;
+	bottom: 599px;
+}
+#tm-div21{
+	width: 49px;
+	height: 49px;
+	padding: 0px;
+	border:1px solid black;
+	position: relative;
+	left: 210px;
+	bottom: 650px;
+}
+#tm-div22{
+	width: 49px;
+	height: 49px;
+	padding: 0px;
+	border:1px solid black;
+	position: relative;
+	left: 160px;
+	bottom: 701px;
+}
+#tm-div23{
+	width: 49px;
+	height: 49px;
+	padding: 0px;
+	border:1px solid black;
+	position: relative;
+	left: 160px;
+	bottom: 802px;
+}
+#tm-div24{
+	width: 49px;
+	height: 49px;
+	padding: 0px;
+	border:1px solid black;
+	position: relative;
+	left: 160px;
+	bottom: 903px;
+}
+#tm-div25{
+	width: 49px;
+	height: 49px;
+	padding: 0px;
+	border:1px solid black;
+	position: relative;
+	left: 160px;
+	bottom: 1004px;
+}
+#tm-div26{
+	width: 49px;
+	height: 49px;
+	padding: 0px;
+	border:1px solid black;
+	position: relative;
+	left: 160px;
+	bottom: 1105px;
+}
+#tm-div27{
+	width: 49px;
+	height: 49px;
+	padding: 0px;
+	border:1px solid black;
+	position: relative;
+	left: 160px;
+	bottom:1206px;
+}
+#tm-div28{
+	width: 49px;
+	height: 49px;
+	padding: 0px;
+	background-color: #ff6666;
+	border:1px solid black;
+	position: relative;
+	left: 160px;
+	bottom: 1307px;
+}
+#tm-lockerB{
+	width: 100px;
+	height: 50px;
+	border:2px solid black;
+	padding: 10px;
+	margin:10px;
+	position: relative;
+	left:570px;
+	bottom: 1080px;
+}
+#tm-tokenB{
+	font-size: 28px;
+}
+#turn{
+	width: 150px;
+	position: relative;
+	bottom:1400px;
+	left: 280px;
+}
+#tm-turn{
+	width:150px;
+	border:1px solid black;
+	height: 30px;
+	padding-top: 10px;
+}
+#number{
+	height: 30px;
+	width:150px;
+	padding-top: 10px;
+	border:1px solid black;
+}
+#roll{
+	background-color: grey;
+	width:150px;
+	border:1px solid black;
+	height: 30px;
+	padding-top: 10px;
+}
