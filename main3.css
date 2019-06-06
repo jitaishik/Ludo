@@ -301,3 +301,18 @@
 	height: 30px;
 	padding-top: 10px;
 }
+.checker{
+	position: relative;
+	bottom: 1380px;
+	left: 280px;
+	max-width: 200px;
+}
+#submit{
+	position: relative;
+	background-color: #1c73ff;
+	left: 20px;
+	max-width: 100px;
+	text-align: center;
+	margin: 10px;
+	color: white;
+}
