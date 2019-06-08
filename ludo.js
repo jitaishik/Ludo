@@ -9,10 +9,10 @@ var lockerA=document.getElementById("tm-lockerA");
 var tokenA=document.getElementById("tm-tokenA");
 var lockerB=document.getElementById("tm-lockerB");
 var tokenB=document.getElementById("tm-tokenB");
-var tokenA1;
-var tokenA2;
-var tokenB1;
-var tokenB2;
+var tokenA1=null;
+var tokenA2=null;
+var tokenB1=null;
+var tokenB2=null;
 var winnerA1=0;
 var winnerA2=0;
 var winnerB1=0;
@@ -669,8 +669,9 @@ roll.onclick=function ()
 	
 };
 submit.onclick=function(){
-	var button=document.getElementById("numchecker");
-	var num=button.value;
+	var num=null;
+	var button=document.getElementById("numchecker").value;
+	num=parseInt(button);
 	if (iA1<iB1 || iA1==0) 
 	{
 		eat1=1;
